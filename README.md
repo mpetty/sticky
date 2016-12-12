@@ -12,7 +12,7 @@ Add to your project's `bower.json` file, like:
   "version": "1.0.0",
   "dependencies": {
     "jquery": "1.11.0",
-    "fillselect": "git@github.com:mpetty/sticky"
+    "sticky": "git@github.com:mpetty/sticky"
   }
 }
 ```
