@@ -1,6 +1,6 @@
-# Parallax v1.0.0
+# Sticky v0.1
 
-Library for simple parallax effects.
+Library for simple sticky elements.
 
 ## Bower Installation
 
@@ -12,7 +12,7 @@ Add to your project's `bower.json` file, like:
   "version": "1.0.0",
   "dependencies": {
     "jquery": "1.11.0",
-    "fillselect": "git@github.com:mpetty/parallax"
+    "fillselect": "git@github.com:mpetty/sticky"
   }
 }
 ```
@@ -20,7 +20,7 @@ Add to your project's `bower.json` file, like:
 ## Usage
 
 ```javascript
-$('[data-parallax]').parallax(options);
+$('[data-sticky]').sticky(options);
 ```
 
 ## Options available
